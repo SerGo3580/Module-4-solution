@@ -1,4 +1,4 @@
-let name = ["Tom","Yakov","Jim","jason",'John',"Jim","Tony"]
+let name = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 var first;
 function bye (name){
     console.log("Bye "+name);
